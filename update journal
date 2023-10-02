@@ -1,1 +1,10 @@
 
+learnt how to use command lines 
+cd, ls, pwd, cat, less, wc, echo, head, tail, mkdir, cp, mv, rm, rmdir, file...
+un chemin absolu indique la position d’un fichier en partant de la racine. ex: /home/pierre/PPE1
+un chemin relatif indique la position d’un fichier en partant du dossier courant. ex: ../../dev/input/mouse3
+
+
+
+
+

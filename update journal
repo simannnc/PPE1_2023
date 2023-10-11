@@ -9,7 +9,8 @@ un chemin relatif indique la position d’un fichier en partant du dossier coura
 
 04/10/2023
 learnt difference between Git Reset, Git Revert
-
+for the exercise, I didnt understand the error that appears when I tried to commit the message. This maybe is 
+because I made changes on github and also on my local computer using terminal.
 
 11/10/2023
 pipelines

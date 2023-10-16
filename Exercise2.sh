@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 YEAR="$1"
 MONTH="$2"
 NUM_LOCA="$3"

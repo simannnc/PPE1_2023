@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 echo "Location en 2016" > location.txt
 cat /Users/siman/PPE1_2023/Files/ann/2016/*/*.ann | grep Location | wc -l >> location.txt
 

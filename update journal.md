@@ -25,6 +25,10 @@ because I made changes on github and also on my local computer using terminal.
 
 11/10/2023
 pipelines
+the command Cat, les chevrons (simple/double)
 argument and script  
+We had also discussed several words that can potentially be used for the project, such as disability and intelligence, which can be used for a wide range of contexts. 
 
-
+18/10/2023
+We have learnt how to use condition as well as for and while loop.
+We have also discoverd lynx that allows to retrieve raw text and curl, which is to check url and text coding etc. 

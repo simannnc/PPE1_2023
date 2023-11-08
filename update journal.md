@@ -32,3 +32,12 @@ We had also discussed several words that can potentially be used for the project
 18/10/2023
 We have learnt how to use condition as well as for and while loop.
 We have also discoverd lynx that allows to retrieve raw text and curl, which is to check url and text coding etc. 
+
+25/10/2023
+We did exercise on miniproject and learnt to retrive http code and web encoding etc.
+
+8/10/2023
+correct the project for last course
+curl -s -L -w "%{content-type}" <url> | grep -P -o "charset=\K\S+" | cut -d "=" -f2 | tail -n 1
+/k/ is the new feature in regular expression we leant today.\
+K: \K is a special feature in some regular expression engines that resets the start of the match. It effectively means "keep out" and is used to control what is captured in the match. Everything before \K is ignored, and only the part after \K is captured.

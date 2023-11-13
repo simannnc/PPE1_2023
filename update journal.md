@@ -36,7 +36,7 @@ We have also discoverd lynx that allows to retrieve raw text and curl, which is 
 25/10/2023
 We did exercise on miniproject and learnt to retrive http code and web encoding etc.
 
-8/10/2023
+8/11/2023
 correct the project for last course
 curl -s -L -w "%{content-type}" <url> | grep -P -o "charset=\K\S+" | cut -d "=" -f2 | tail -n 1
 /k/ is the new feature in regular expression we leant today.\

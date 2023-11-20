@@ -41,3 +41,6 @@ correct the project for last course
 curl -s -L -w "%{content-type}" <url> | grep -P -o "charset=\K\S+" | cut -d "=" -f2 | tail -n 1
 /k/ is the new feature in regular expression we leant today.\
 K: \K is a special feature in some regular expression engines that resets the start of the match. It effectively means "keep out" and is used to control what is captured in the match. Everything before \K is ignored, and only the part after \K is captured.
+
+15/11/2023
+We learnt how to write an HTML page, which will be part of our final program. We have also looked at Bulma, which is a popular open-source CSS framework used for building responsive web interfaces. In the homework, we should modify the script we have for the miniproject for last course so that it can generate the http/bulma code automatically. 

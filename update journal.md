@@ -44,3 +44,6 @@ K: \K is a special feature in some regular expression engines that resets the st
 
 15/11/2023
 We learnt how to write an HTML page, which will be part of our final program. We have also looked at Bulma, which is a popular open-source CSS framework used for building responsive web interfaces. In the homework, we should modify the script we have for the miniproject for last course so that it can generate the http/bulma code automatically. 
+
+22/11/2023
+We worked on the aspiration of the pages HTML, counted the occurances, extracted the context and then the words that occur before and after the targeted word. And as Chinese is a langauge that does not have explicit boundary of words, we have to tokenize it first before extracting the concordances. 
